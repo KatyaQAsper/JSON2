@@ -1,0 +1,11 @@
+{
+"id" : "12",
+  "title" : "Авторизоваться", 
+  "severity" : "Major",
+  "priority" : "Low",
+  "component" : "",
+  "environment" : "Windows 10 X64",
+  "steps to reproduce" : "",
+  "actual result" : "",
+  "expected result" : ""
+}
